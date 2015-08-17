@@ -32,7 +32,7 @@ ext {
     artifact = 'davidarr'
 
     libraryDescription = 'A custom RatingBar view that measures its indeterminate drawable, in order to avoid the RatingBar "bleeding problem"'
-    libraryVersion = '1.0'
+    libraryVersion = '1.1'
 
     developerId = 'svdu2015'
     developerName = 'David Svilem'
